@@ -5,9 +5,6 @@ def hyeta(c1, c2):
 c1, c2 = map(float, input().split())
 
 
-# print(hyeta(c1, c2))
-
-
 def h2():
     sigma_d = 0.017
     d = 0.504
